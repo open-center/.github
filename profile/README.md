@@ -17,7 +17,7 @@
 
 | Project | Description |
 |---|---|
-| [**NoteWright**](https://github.com/open-center/obsidian-ai-agent) · `obsidian-ai-agent` | An AI agent for Obsidian. Chat with OpenAI, Claude, DeepSeek or any OpenAI-compatible model and let it read, search and edit your notes, with a diff preview and one-click undo. <br/> Obsidian 的 AI Agent 插件：接入各家大模型，直接读取、搜索、修改笔记，每次修改可预览、可撤销。 |
+| [**AI Note Agent**](https://github.com/open-center/obsidian-ai-note-agent) · `obsidian-ai-note-agent` | An AI agent for Obsidian. Chat with OpenAI, Claude, DeepSeek or any OpenAI-compatible model and let it read, search and edit your notes, with a diff preview and one-click undo. Available in Obsidian's community plugins: search **AI Note Agent**. <br/> Obsidian 的 AI Agent 插件：接入各家大模型，直接读取、搜索、修改笔记，每次修改可预览、可撤销。已上架 Obsidian 社区插件，搜索 **AI Note Agent** 即可安装。 |
 
 More projects coming soon. · 更多项目陆续开源中。
 
